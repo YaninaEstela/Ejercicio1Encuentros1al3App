@@ -9,6 +9,9 @@ public class Ejercicio1Encuentros1al3App {
         System.out.println("Primera prueba iniciada. Yanina");
         System.out.println("Golazo de Messi. Any");
         System.out.println(" como era parabajar por primera vez al netbeans?");
+        System.out.println("Golazo de Messi. Andy");
+        System.out.println("Aguante la ULP");
+
     }
     
 }

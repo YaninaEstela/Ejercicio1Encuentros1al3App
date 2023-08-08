@@ -18,7 +18,7 @@ public class Ejercicio1Encuentros1al3App {
         //Hola Familia.
         System.out.println("Probando a ver que sale. soy Emi");
         
- System.out.println(" como era parabajar por primera vez al netbeans?");
+ System.out.println(" como era parabajar por primera vez al netbeans?//Ariel");
     }
     
     

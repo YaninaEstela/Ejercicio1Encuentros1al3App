@@ -11,12 +11,13 @@ public class Ejercicio1Encuentros1al3App {
        
         System.out.println("Golazo de Messi. Andy");
         System.out.println("Aguante la ULP");
-        System.out.println("holaaaa");
+        System.out.println("holaaaa soy gero xd");
         // Segunda modificación de prueba
         
         System.out.println("Prueba 2");
         //Hola Familia.
         System.out.println("Probando a ver que sale. soy Emi");
+        System.out.println("Hola chicos, soy Vero");
         
  System.out.println(" como era parabajar por primera vez al netbeans?//Ariel");
     }
